@@ -8,3 +8,6 @@
 * Understanding and Using SLAM
 * Mapping and Localization by using Active Neural Slam [here](https://github.com/devendrachaplot/Neural-SLAM)
 * Object Detection by using YOLO [here](https://pjreddie.com/darknet/yolo/)
+### Method
+* Environment: habitat-sim
+* Exchange data with Turtlebot (ex. sensor data)
