@@ -13,3 +13,4 @@
 ### Method
 * Environment: habitat-sim
 * Exchange data with Turtlebot (ex. sensor data)
+* How to get sensor data from robot to simulation environment?
