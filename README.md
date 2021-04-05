@@ -14,3 +14,5 @@
 * Environment: habitat-sim
 * Exchange data with Turtlebot (ex. sensor data)
 * How to get sensor data from robot to simulation environment?
+### Related Challenge
+* Habitat Challenge 2020 | AI Habitat
