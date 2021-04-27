@@ -13,6 +13,7 @@
 ### Method
 * Environment: habitat-sim
 * Exchange data with Turtlebot (ex. sensor data)
+  * Pi camera, RGB-D senser
 * How to get sensor data from robot to simulation environment?
 * Pre-task: Passive SLAM exploration
 ### Related Challenge
