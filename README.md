@@ -18,3 +18,6 @@
 * Pre-task: Passive SLAM exploration
 ### Related Challenge
 * Habitat Challenge 2020 | AI Habitat
+#### Difficulties
+* How to handle RGB-D data from Pi-camera?
+* Resolution of Pi-camera
