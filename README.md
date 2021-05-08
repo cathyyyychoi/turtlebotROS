@@ -21,3 +21,4 @@
 #### Difficulties
 * How to handle RGB-D data from Pi-camera?
 * Resolution of Pi-camera
+* How to put data in Neural SLAM?
