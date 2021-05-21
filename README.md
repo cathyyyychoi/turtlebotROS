@@ -11,7 +11,8 @@
 * Object Detection by using YOLO [here](https://pjreddie.com/darknet/yolo/)
 * Semantic Curiosity Active Visual Learning [here](https://www.cs.cmu.edu/~dchaplot/projects/SemanticCuriosity.html)
 ### Method
-* Environment: habitat-sim
+* PC: Ubuntu 18.04
+* Environment: habitat-sim, Python3.7
 * Exchange data with Turtlebot (ex. sensor data)
   * Pi camera, RGB-D senser
 * How to get sensor data from robot to simulation environment?
