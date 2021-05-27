@@ -17,6 +17,7 @@
   * Pi camera, RGB-D senser
 * How to get sensor data from robot to simulation environment?
 * Pre-task: Passive SLAM exploration
+* Add Object Detection module
 ### Related Challenge
 * Habitat Challenge 2020 | AI Habitat
 #### Difficulties
