@@ -11,7 +11,7 @@
 * Object Detection by using YOLO [here](https://pjreddie.com/darknet/yolo/)
 * Semantic Curiosity Active Visual Learning [here](https://www.cs.cmu.edu/~dchaplot/projects/SemanticCuriosity.html)
 ### Method
-* PC: Ubuntu 18.04
+* PC: Ubuntu 18.04 (4-core GPU, docker)
 * Environment: habitat-sim, Python3.7
 * Exchange data with Turtlebot (ex. sensor data)
   * Pi camera, RGB-D senser
